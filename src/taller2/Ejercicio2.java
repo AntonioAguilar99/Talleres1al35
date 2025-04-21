@@ -1,13 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package taller2;
 import javax.swing.*;
 import java.awt.*;
 /**
  *
- * @author anton
+ * @author Andonio Aguilar
  */
 public class Ejercicio2 extends JFrame {
     JTextField txt1 = new JTextField();
