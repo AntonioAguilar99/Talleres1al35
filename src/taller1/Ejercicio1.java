@@ -1,13 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package taller1;
 import javax.swing.*;
 import java.awt.event.*;
 /**
  *
- * @author anton
+ * @author Andonio Aguilar
  */
 public class Ejercicio1 extends JFrame {
     JLabel etiNombre, etiCiudad;
